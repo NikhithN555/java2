@@ -1,4 +1,4 @@
-public class Test {
+public class Pest {
 
     static void add()
     {
